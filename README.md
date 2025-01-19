@@ -1,6 +1,8 @@
 # Android-Rat-2025
 Herramientas para el control de dispositivos Android.
-Este REPOSITORIO no se hace REPONSABLE del mal uso que se haga de estas herramientas(ESTO PUEDE ACARREAR SANCIONES PENALES GRAVES)
+Este REPOSITORIO no se hace REPONSABLE del mal uso que se haga de estas herramientas
+
+(ESTO PUEDE ACARREAR SANCIONES PENALES GRAVES)
 SOLO PARA ESTUDIO Y FORMACION
 
 ![Screenshot (20250118-162803)](https://github.com/user-attachments/assets/cf8d9a7c-7fa3-48bd-bde1-29d67bf1cb56)
